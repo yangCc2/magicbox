@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da4512b0-a8d9-43ce-8f79-9ab09d81a058" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="da4512b0-a8d9-43ce-8f79-9ab09d81a058" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678346014183</updated>
       <workItem from="1678346015485" duration="32000" />
-      <workItem from="1678346848456" duration="85000" />
+      <workItem from="1678346848456" duration="298000" />
     </task>
     <servers />
   </component>
